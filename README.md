@@ -49,3 +49,5 @@ Email: [kaylaanngrace@gmail.com](mailto:kaylaanngrace@gmail.com)
 ## Credits 
 
 [Makayla Wilson](https://www.linkedin.com/in/makaylawilson01/)
+
+Project from [Modern JavaScript From The Beginning 2.0](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
