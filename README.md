@@ -1,5 +1,5 @@
 # jsShoppingList
-Deployed Application:[Shopping List]()
+Deployed Application:[Shopping List](https://shoppinglist-makwils.netlify.app/)
 
 ## Table-of-Contents 
 
@@ -38,6 +38,7 @@ If you have any tips or find any issues with this application, Please open a new
 - HTML
 - CSS
 - Font Awesome for Icons
+- [Netlify](https://app.netlify.com/) for Deployment
 
 ## Questions
 
