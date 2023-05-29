@@ -7,7 +7,7 @@ Deployed Application:[Shopping List]()
 - [Learned](#learned)
 - [Usage](#usage)
 - [Contributions](#contributions)
-- [Tests](#tests)
+- [Technologies](#technologies)
 - [Questions](#questions)
 - [Credits](#credits)
 
@@ -33,9 +33,11 @@ How to Use:
 If you have any tips or find any issues with this application, Please open a new issue under the issues tab. Thank you! :)
 
 
-## Tests
-To try out this application please visit [here]()
-    
+## Technologies 
+- JavaScript + localStorage
+- HTML
+- CSS
+- Font Awesome for Icons
 
 ## Questions
 
